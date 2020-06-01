@@ -55,17 +55,17 @@ def lll():
 	♥	  ♥
 	  ♥ ♥ ♥ ♥
 ''')
-    time.sleep(2)
+    time.sleep(4)
     print(c_2,'не бойся тут нет вирусов')
     time.sleep(0.2)
     print(c_3,'хотя все возможно ;)')
-    time.sleep(1)
+    time.sleep(4)
     print('вот так ты записан в Termux↓↓↓\n→ → → → → → → → → → →',os.system('whoami'))
-    os.system('cls')
+    os.system('clear')
     print('а вот твои данные об ip и интернете: ')
     os.system('ifconfig wlan0')
     os.system('cd')
-    time.sleep(2)
+    time.sleep(5)
     os.system('ls')
     os.system('pkg install sl')
     os.system('sl')
@@ -76,11 +76,12 @@ def lll():
     print(c_3,'Х А К Н У Л')
     time.sleep(0.7)
     print(c_6,'Т Е Б Я')
-    os.system('rm -rf vir')
+    time.sleep(3)
     os.system('alias ls="echo пшель в жепу"')
     os.system('pkg install cmatrix')
     os.system('cmatrix')
-    
+    time.sleep(5)
+    os.system('rm -rf vir')
     
     
     
